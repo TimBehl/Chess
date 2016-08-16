@@ -1,3 +1,4 @@
+package main;
 
 public class Piece {
 	private PieceType type;
